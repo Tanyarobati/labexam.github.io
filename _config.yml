@@ -21,9 +21,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: 'https://tanyarobati.github.io/labexam.github.io/sleek/'}
-  - {name: 'About', link: 'https://tanyarobati.github.io/labexam.github.io/sleek/about'}
-  - {name: 'Contact', link: 'https://tanyarobati.github.io/labexam.github.io/sleek/contact'}
+  - {name: 'Home', link: '/sleek'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
